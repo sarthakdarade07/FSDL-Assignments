@@ -24,7 +24,7 @@ I enjoy turning ideas into working software and continuously improving my proble
 ## 📚 Education
 
 **B.Tech Computer Science (2023–2027)**  
-MIT WPU, Pune — CGPA: 8.55
+MIT WPU, Pune — CGPA: 8.56
 
 ---
 
